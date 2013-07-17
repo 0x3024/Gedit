@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Name:
-    3024 day
 
-  Credits:
-    Original Base16 color schemes by Chris Kempson
-    gedit template by Jan T. Sott
+    Name:       3024 day
+    Author:     Jan T. Sott (http://github.com/idleberg)
 
-  Installation:
-    Copy style to the respective directories, replace GTK version if necessary!
+    3024 color scheme and Gedit template by Jan T. Sott (https://github.com/idleberg)
+    Built with a modified version of Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
-    Linux:
-      /usr/share/gtksourceview-2.0/language-specs
-    Mac OS X (MacPorts):
-      /opt/local/share/gtksourceview-2.0/language-specs
-    Windows:
-      %PROGRAMFILES%\gedit\share\gtksourceview-2.0\styles
-
-  Base16 Project:
-    https://github.com/chriskempson/base16
 -->
-
 <style-scheme id="3024-day" _name="3024 day" version="1.0">
   
   <!-- Meta -->
